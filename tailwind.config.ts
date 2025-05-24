@@ -1,3 +1,4 @@
+
 import type { Config } from "tailwindcss";
 
 export default {
@@ -67,7 +68,7 @@ export default {
 					ocean: '#1E40AF',
 					mist: '#DBEAFE',
 					cloud: '#F1F5F9',
-					ice: '#E0F2FE',
+					ice: '#EBF8FF',
 					lavender: '#E5E7EB',
 					deep: '#1E3A8A',
 					soft: '#93C5FD'
