@@ -72,6 +72,16 @@ export default {
 					lavender: '#E5E7EB',
 					deep: '#1E3A8A',
 					soft: '#93C5FD'
+				},
+				wellness: {
+					sage: '#6B7280',
+					forest: '#374151',
+					mint: '#A7F3D0',
+					sky: '#BFDBFE',
+					cream: '#F3F4F6',
+					lavender: '#E0E7FF',
+					peach: '#FED7D7',
+					ocean: '#3B82F6'
 				}
 			},
 			borderRadius: {

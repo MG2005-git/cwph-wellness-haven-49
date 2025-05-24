@@ -9,8 +9,8 @@ export const HeroSection = () => {
       {/* Background decorative elements */}
       <div className="absolute inset-0 overflow-hidden">
         <div className="absolute top-20 left-10 w-20 h-20 bg-wellness-lavender/20 rounded-full blur-xl animate-pulse"></div>
-        <div className="absolute top-1/3 right-20 w-32 h-32 bg-wellness-peach/20 rounded-full blur-xl animate-pulse delay-1000"></div>
-        <div className="absolute bottom-1/4 left-1/4 w-24 h-24 bg-wellness-mint/20 rounded-full blur-xl animate-pulse delay-500"></div>
+        <div className="absolute top-1/3 right-20 w-32 h-32 bg-wellness-mint/20 rounded-full blur-xl animate-pulse delay-1000"></div>
+        <div className="absolute bottom-1/4 left-1/4 w-24 h-24 bg-wellness-sky/20 rounded-full blur-xl animate-pulse delay-500"></div>
       </div>
 
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
