@@ -1,4 +1,3 @@
-
 import type { Config } from "tailwindcss";
 
 export default {
@@ -63,15 +62,15 @@ export default {
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
 				},
-				wellness: {
-					sage: '#87A96B',
-					mint: '#A8D5BA',
-					sky: '#B8E6E6',
-					cream: '#FAF7F0',
-					lavender: '#E8D5E8',
-					peach: '#F5C2A7',
-					forest: '#6B8E6B',
-					ocean: '#4A90A4'
+				serenity: {
+					sky: '#3B82F6',
+					ocean: '#1E40AF',
+					mist: '#DBEAFE',
+					cloud: '#F1F5F9',
+					ice: '#E0F2FE',
+					lavender: '#E5E7EB',
+					deep: '#1E3A8A',
+					soft: '#93C5FD'
 				}
 			},
 			borderRadius: {

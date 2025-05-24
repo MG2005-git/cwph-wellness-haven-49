@@ -13,6 +13,7 @@ import Contact from "./pages/Contact";
 import NotFound from "./pages/NotFound";
 import { Navigation } from "./components/Navigation";
 import { Footer } from "./components/Footer";
+import { AISidebar } from "./components/AISidebar";
 
 const queryClient = new QueryClient();
 
@@ -37,6 +38,7 @@ const App = () => (
             </Routes>
           </main>
           <Footer />
+          <AISidebar />
         </div>
       </BrowserRouter>
     </TooltipProvider>
