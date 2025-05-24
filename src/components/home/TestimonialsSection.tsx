@@ -48,7 +48,7 @@ export const TestimonialsSection = () => {
                 <Quote className="h-6 w-6 text-wellness-sage mr-2" />
                 <div className="flex">
                   {[...Array(testimonial.rating)].map((_, i) => (
-                    <Star key={i} className="h-4 w-4 text-yellow-400 fill-current" />
+                    <Star key={i} className="h-4 w-4 text-wellness-mint fill-current" />
                   ))}
                 </div>
               </div>
